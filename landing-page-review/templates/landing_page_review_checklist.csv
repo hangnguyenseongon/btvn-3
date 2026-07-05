@@ -1,0 +1,151 @@
+﻿STT,Giai đoạn,Hạng mục đánh giá,Hạng mục con,Chi tiết công việc,Tỉ lệ đáp ứng,Mức độ quan trọng,Tình trạng
+1,Xác định thông tin,"Đọc brief để nắm cơ bản về sản phẩm, dịch vụ",,"- Sản phẩm & dịch vụ cần quảng cáo là gì? Có khả năng hạn chế quảng cáo không?
+- Hành vi mua hàng: Có thể mua ngay hay cần tư vấn, 
+- Mô hình: B2B hay B2C
+- Thông tin đối tượng khách hàng mục tiêu (nhân khẩu học, nghề nghiệp, vị trí, hành vi,...)
+- Có link web chưa",,,
+2,Xác định thông tin,Xác định mục tiêu của chiến dịch,,"- Sản phẩm thuộc ngành hàng nào
+- Mục tiêu: thu thập thông tin khách hàng để tư vấn; giới thiệu sản phẩm & dịch vụ; bán hàng…",,,
+3,Xác định thông tin,Kiểm tra thông tin website,,"- Website hoàn chỉnh hay Landing page?
+- Các mã theo dõi cơ bản: GA, GTM, GAds, FB pixel, Tiktok Pixel
+- Mã nguồn là gì?",,,
+4,Xác định thông tin,Đánh giá nhanh yêu cầu của khách hàng về kênh? hình thức quảng cáo,,"- Triển khai kênh nào? Hình thức nào?
+- Đặc thù của loại traffic đó?
+- Traffic đó có khớp với khách hàng mục tiêu? Tư vấn thêm các kênh, hình thức nào? ( Lưu ý về tệp đối tượng và ngân sách để cân nhắc đề xuất)",,,
+5,Xác định thông tin,Tổng hợp thông tin quan trọng,,"- Khách hàng mục tiêu quan tâm chính tới thông tin gì của sản phẩm, dịch vụ? ( giá, ưu đãi, tgian ra mắt, chất lượng dịch vụ, quy trình làm việc …)
+- Các thông tin bổ trợ cần có? ( Giới thiệu sản phẩm, thông tin liên hệ, USP, đơn vị cung cấp thông tin sản phẩm, dịch vụ, bảo hành, bảo trì …)
+- Chỉ số quan trọng liên quan đến: 
++ Lượt liên hệ
++ Lượt hoàn tất đăng ký tư vấn
++ Số lần mua hàng thành công
+- Chỉ số theo dõi
++ Time On Site - tỷ lệ thoát - số trang/phiên
++ Khác: Head map, cuộn chuột, record",,,
+6,Checklist chung,Trải nghiệm người dùng,Nội dung trang đích,"Đánh giá nhanh xem trang đích cung cấp đủ thông tin quan trọng, thông tin bổ sung chưa?",FALSE,Cực kỳ quan trọng,
+7,Checklist chung,Trải nghiệm người dùng,Giao diện trang đích,"Đánh giá nhanh giao diện: Bố cục, màu sắc.",,,
+8,Checklist chung,Trải nghiệm người dùng,Kiểm tra nút bấm,Các nút bấm trên trang hoạt động ổn định hay không? Call. Zalo. Form tư vấn. Form mua hàng,,,
+9,Checklist chung,Thân thiện di động,Kiểm tra tính tương thích trên di động,Kiểm tra Google đã đánh giá website là trang thân thiện với thiết bị di động hay chưa?,FALSE,Cực kỳ quan trọng,
+10,Checklist chung,Tốc độ tải trang,PageSpeed Insights,"Kiểm tra website đã đạt các điểm >60/100 chưa:
+- Tốc độ trên thiết bị di động
+- Tốc độ trên PC",FALSE,,
+11,Checklist chung,Tốc độ tải trang,Testmysite,Kiểm tra tốc độ website đã đạt <2.5s chưa,,,
+12,Checklist chung,Domain,http & https,Kiểm tra website đã cài chứng chỉ bảo mật SSL,FALSE,Cực kỳ quan trọng,
+13,Checklist chung,Favicon,,Kiểm tra website đã có Favicon chưa,,,
+14,Check list cơ bản,Kiểm tra mã cài đặt trên website,Phân tích số liệu và theo dõi tình trạng website,Kiểm tra website đã thiết lập mã cài đặt Tag Manager hay chưa,,,
+15,Check list cơ bản,Kiểm tra mã cài đặt trên website,,"Kiểm tra website đã thiết lập mã cài đặt Google Analytic ( UA, GA4) hay chưa",,,
+16,Check list cơ bản,Kiểm tra mã cài đặt trên website,,"Kiểm tra website đã thiết lập mã cài đặt Google Ads Remkt, Facebook Pixel, Tiktok Pixel hay chưa",,,
+17,Check list cơ bản,Kiểm tra giao diện trên nhiều trình duyệt,"Google Chrome, Mozilla FireFox, Internet Explorer, Safari, Cốc Cốc,...",Sử dụng website trên các trình duyệt khác nhau xem có lỗi không,,,
+18,Check list cơ bản,Liên kết với Fanpage,Fanpage Facebook,Kiểm tra website đã có phần liên kết đến Fanpage của website hay chưa,FALSE,Rất quan trọng,
+19,Check list cơ bản,Live chat,,Kiểm tra website đã có phần Live chat cho người dùng hay chưa,FALSE,Cực kỳ quan trọng,
+20,"Check list nâng cao 
+Website/LDP bán hàng",Danh mục sản phẩm,Kiểm tra menu danh mục,- Danh mục sản phẩm được chia rõ ràng,,,
+21,"Check list nâng cao 
+Website/LDP bán hàng",Danh mục sản phẩm,Kiểm tra các sản phẩm trong danh mục,- Các sản phẩm được sắp xếp đúng danh mục,,,
+22,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Tiêu đề,"- Tên sản phẩm phải là tiếng Việt có dấu, đủ ký tự, rõ nghĩa, phải trùng khớp với thông tin trên hình ảnh sản phẩm.
+- Nếu sử dụng kèm thương hiệu sản phẩm (Việt Nam hoặc nước ngoài) thì phần tên phải bao gồm tiếng Việt đi kèm mô tả ngắn gọn sản phẩm để Người Mua có thể hiểu rõ ràng. Ví dụ: Nước hoa Chanel Chance.
+- Nếu là bộ sản phẩm thì tên sản phẩm phải ghi rõ Combo/Bộ sản phẩm
+- Tránh VIẾT HOA tất cả các chữ cái, trừ tên thương hiệu như ZARA, ASUS
+- Không dùng các ký hiệu không cần thiết, viết tắt và spam từ khóa không liên quan
+- Không thêm những đánh giá chủ quan và thông điệp quảng cáo như ""Hàng nóng bỏng tay"", ""Sản phẩm bán chạy nhất"", “Giảm giá"", ""Miễn phí vận chuyển"" hay giá thành sản phẩm
+- Không dùng các biểu tượng cảm xúc, cụm từ mang tính trào lưu hoặc ký hiệu như }, ~, $, ^, {, <, !, *, #, @, ;, %, >
+- Không chứa từ khóa fake/nhái hoặc các từ khóa tương tự
+- Không nhồi nhét các từ khóa không liên quan vào tên sản phẩm
+- Sử dụng khoảng cách phù hợp
+- Thêm các từ khóa hot vào tiêu đề sản phẩm",,,
+23,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Hình ảnh sản phẩm,"- Hiển thị rõ ràng, ưu tiêu nhiều ảnh chụp nhiều góc độ, ưu tiên có thêm video sản phẩm
+1. Đăng tải hình ảnh sản phẩm thật, độ phân giải cao, rõ ràng
+- 45% quyết định mua hàng online phụ thuộc vào hình ảnh đăng bán
+- Dễ dàng thu hút Người mua từ cái nhìn đầu tiên
+2. Hình ảnh chi tiết từng phần của sản phẩm
+Cùng với mô tả sản phẩm, hình ảnh sản phẩm cụ thể cung cấp cho Người mua cái nhìn toàn diện của sản phẩm
+  + Sản phẩm từ các góc độ khác nhau
+  + Hình ảnh chứng từ hợp lệ, rõ nét, thể hiện đầy đủ những thông tin cần thiết (nếu có)
+  + Chia sẻ Thông số kỹ thuật sản phẩm và bảo hành
+  + Cách sử dụng sản phẩm
+  + Thể hiện nhiều phân loại của sản phẩm
+3. Thêm video về sản phẩm
+Lưu ý: đảm bảo hình ảnh của bạn có dung lượng vừa phải để tránh gây ảnh hưởng đến tốc độ tải trang.""",,,
+24,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Giá,"- Công khai giá
+- Giá bán - Giá Sale rõ sàng, nổi bật",,,
+25,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Thuộc tính,"- Chọn lựa dễ dàng màu sắc, kích thước",,,
+26,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Mô tả sản ngắn,"- Thể hiện được công dụng, tính năng sản phẩm",,,
+27,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Nút mua hàng,- Nổi bật. bắt mắt,,,
+28,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Mô tả chi tiết,"- Thể hiện chi tiết thông tin về sản phẩm
+1. Bao gồm thông số kỹ thuật sản phẩm 
+- Cung cấp cho Người mua các thông số kỹ thuật chi tiết của sản phẩm như chất liệu, trọng lượng, kích thước và các đặc tính khác. Những chi tiết này đặc biệt quan trọng đối với hàng điện tử, thiết bị và phụ kiện gia dụng.
+
+2. Chia sẻ công dụng và lợi ích của sản phẩm
+- Giải thích tính năng, lợi ích và hướng dẫn sử dụng sản phẩm
+
+3. Chế độ bảo hành (nếu có) 
+Cung cấp thông tin và thời gian bảo hành giúp Người mua có thêm lòng tin vào sự uy tín của Shop.
+- Nếu là sản phẩm đã qua sử dụng, phải ghi rõ tình trạng bên ngoài và hiệu suất sử dụng của sản phẩm: Từ ngữ mô tả trung thực, rõ ràng, không lập lờ hoặc gây hiểu lầm cho khách hàng.
+- Nếu là bài đăng cho 1 sản phẩm duy nhất, thì đây là phần mô tả cho sản phẩm đó.
+- Nếu là một Combo gồm nhiều sản phẩm, thì phải liệt kê đầy đủ thông tin của từng sản phẩm có trong đó.
+
+4. Hướng dẫn
+Hướng dẫn sử dụng
+Hướng dẫn mua hàng",,,
+29,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Review từ KOL,- Bổ sung video/hình ảnh KOL/KOC review về sản phẩm nếu có,,,
+30,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Đánh giá của khách hàng,Nên có phần đánh giá sp/dv  => nó đánh được tâm lý số đông và tăng sự tin tưởng cho người đọc.,,,
+31,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Sản phẩm liên quan,- Hiển thị các sản phẩm liên quan đến sản phẩm đang xem,,,
+32,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Sản phẩm mua nhiều,"- Hiển thị các sản phẩm mua nhiều, đang sale",,,
+33,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Cam kết,"- Hàng chính hãng, Bảo hành. đổi trả, vận chuyển",,,
+34,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,Thông tin nhà bán hàng,"- Thể hiện thâm niên, triết lý, châm ngôn bán hàng
+- Thông tin liên hệ
+- Thông tin cửa hàng",,,
+35,"Check list nâng cao 
+Website/LDP bán hàng",Bố cục trang sản phẩm,TIP khác,"Tăng thêm khả năng mua hàng bằng cách
+- Thể hiện số lượng sản phẩm đã bán
+- Thể hiện số lượng sản phẩm trong kho
+- Thể hiện rate sao, đánh giá người mua
+- Tặng voucher cho người mua khi kéo đến 2/3 trang đích
+- Thông báo có khách vừa đặt hàng
+- Sử dụng thêm livechat để hỗ trợ khách hàng cần thêm thông tin",,,
+36,"Check list nâng cao 
+Website/LDP bán hàng",Tính năng đặt hàng,Thử nghiệm đặt test đơn hàng,"Đủ các trang cần thiết: 
+- Trang giỏ hàng
+- Trang thanh toán
+- Trang mua hàng thành công",,,
+37,"Check list nâng cao 
+Website/LDP bán hàng",Trường thông tin đặt hàng,Thử nghiệm đặt test đơn hàng,"- Kiểm tra : Số lượng trường thông tin cần điền? Số lượng bắt buộc
+Càng nhiều trường tỷ lệ hoàn tất form càng thấp",,,
+38,"Check list nâng cao 
+Website/LDP bán hàng",Trích xuất dữ liệu,Thử nghiệm xuất dữ liệu,- Xuất thử theo các trường yêu cầu cho QC shopping,,,
+39,"Check list nâng cao 
+Website/LDP bán hàng",Chính sách,,"- Chính sách mua hàng
+- Chính sách vận chuyển
+- Chính sách thanh toán
+- Chính sách đổi trả
+- Chính sách bảo mật thông tin",,,
+40,"Check list nâng cao 
+Website/LDP dịch vụ",Danh mục dịch vụ,Kiểm tra menu danh mục,- Danh mục sản phẩm được chia rõ ràng,,,
+41,"Check list nâng cao 
+Website/LDP dịch vụ",Thông tin dịch vụ,Thứ tụ nội dung,- Xác định thông tin quan trọng để sắp xếp bố cục trang đích,,,
+42,"Check list nâng cao 
+Website/LDP dịch vụ",Thông tin dịch vụ,Đặc điểm nổi bật của sản phẩm/ dịch vụ,"Các đặc điểm nổi bật nhất của sản phẩm cần liệt kê ngắn gọn và xúc tích nhất. không cần tất cả nhưng nó phải là những đặc điểm nổi bật nhất, nhiều người tâm nhất, giá trị nhất mà bạn muốn truyền tải.",,,
+43,"Check list nâng cao 
+Website/LDP dịch vụ",Thông tin dịch vụ,Các đối tác,,,,
+44,"Check list nâng cao 
+Website/LDP dịch vụ",Thông tin dịch vụ,Đánh giá của người sử dụng dịch vụ,Nên có phần đánh giá sp/dv  => nó đánh được tâm lý số đông và tăng sự tin tưởng cho người đọc.,,,
+45,"Check list nâng cao 
+Website/LDP dịch vụ",Thông tin dịch vụ,Form kêu gọi hành động và thông tin liên hệ,"- Định dạng form dễ điền: chọn lọc trường bắt buộc cần điền
+- Xuyên suốt văn bản nên đặt những câu điều hướng kêu gọi khách hàng điền form để lại thông tin tư vấn",,,
+46,"Check list nâng cao 
+Website/LDP dịch vụ",Thông tin dịch vụ,TIP khác,"Tăng thêm khả năng liên hệ bằng cách
+- Thể hiện đánh giá của khách hàng
+- Thông báo có khách vừa đăng ký tư vấn
+- Sử dụng thêm livechat để hỗ trợ khách hàng cần thêm thông tin",,,
